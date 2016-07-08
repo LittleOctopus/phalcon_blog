@@ -1,0 +1,115 @@
+.middle-left{
+	float: left;
+}
+
+.li-block{
+	width: 650px;
+	height: 230px;
+	margin-left:30px;
+}
+.li-detail{
+	width: 650px;
+	/*height: 320px;*/
+	margin-left:30px;
+}
+.li-top{
+	padding-bottom: 5px;
+}
+.li-top>ul>li{
+	float: left;
+}
+
+.li-top>ul ul>li{
+	margin-left: 15px;
+}
+
+.title{
+	font-size:20px;
+	font-weight: bold;
+}
+.title a{
+	color: #000000;	
+}
+.btn a{
+	color: #FFFFFF;
+}
+
+.time-auther{
+	color:#d0d3d7;
+	font-size:11px;
+	margin-top:5px;
+}
+.time-auther span:nth-child(1){
+	margin-right:10px;
+}
+
+.content{
+	clear: both;
+	text-indent:28px;
+	line-height: 25px;
+	color: #606060;
+}
+
+.btn{
+	width: 100px;
+	background: #1abc9c;
+	text-align: center;
+	color: #FFFFFF;
+	padding:7px 0;
+	margin-top: 10px;
+	float: right;
+}
+
+
+
+.middle-right{
+	float:left;
+	margin-top: 0px;
+	margin-left: 40px;
+}
+
+.middle-right>ul>li{
+	border-bottom: solid #e7e7e7 1px;
+	width: 220px;
+}
+.redian-title{
+	color: #495a6c;
+	font-weight: bold;
+	font-size: 20px;
+	position: relative;
+	top: 2px;
+}
+
+.middle-right ul>li a{
+	color: #7b7c7c;
+	font-size: 16px;
+}
+
+.search{
+	margin-top: 30px;
+}
+.search input{
+	/*border:0;*/
+	outline:none;
+}
+
+.search li:nth-child(2),.search li:nth-child(3){
+	float: left;
+}
+
+.go{
+	width: 50px;
+	height: 25px;
+	background: #1abc9c;
+	color: #FFFFFF;
+	border: 0;
+	padding-bottom:5px;
+	cursor: pointer;
+}
+.page{
+	margin-left:30px;
+	margin-top:50px;
+}
+.page a{
+	margin-right:10px;
+}

@@ -1,0 +1,35 @@
+.middle-text{
+	width:700px;
+	margin:0 auto;
+	/*background: #FFFFFF;*/
+}
+
+.middle-text ul textarea,.middle-text ul input{
+	border-color: #1abc9c;
+	outline: none;
+	background: #f4f9fc;
+	border-top: 0;
+	border-left: 0;
+	border-right: 0;
+	width: 100%;
+
+}
+.middle-text textarea{
+	height: 400px;
+	margin-top: 10px;	
+	font-size:20px;
+}
+.middle-text input{
+	height: 50px;
+	font-size:25px;
+}
+.submit{
+	background: #1abc9c;
+	width: 100%;
+	height:40px !important;
+	margin-top: 20px;
+	color: #FFFFFF;
+	outline: none;
+	border: 0;
+	cursor: pointer;
+}
